@@ -1,14 +1,22 @@
 ### Hi there 👋
+## I'm Anikait Banga 
 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on **CPP**
+- 🌱 I’m currently learning **ML**
+- 👯 I’m looking to collaborate on **oops**
+- 🤔 I’m looking for help with **coding**
+- 💬 Ask me about **OOP's,Python**
+- 📫 How to reach me 
+- 😄 Pronouns
+- ⚡ Fun fact: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/>
+ <div align="right">
+
+![](https://komarev.com/ghpvc/?username=Anikait001)
+
+</div>
+
+
+  
